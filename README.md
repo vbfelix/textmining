@@ -1,1 +1,1 @@
-# textmining
+# Tools to do text analysis
